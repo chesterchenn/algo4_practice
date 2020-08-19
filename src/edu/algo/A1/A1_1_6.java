@@ -1,4 +1,4 @@
-package edu.algo;
+package edu.algo.A1;
 
 /**
  * 下面这段程序会打印出什么？
